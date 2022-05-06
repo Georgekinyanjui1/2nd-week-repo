@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-image: url("/assets/images/pic.png");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 165px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 15px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.one{
+    color: yellow;
+    margin:15 0 50 50;
+    font-size: x-large;
+}
+
+
+.two{
+    color: white;
+    font-size:small;
+    margin: 50px;
+}
+
+.active{
+    background-color: yellow;
+    font-size:x-small;
+}
+
+.sect1{
+    display: flex;
+    align-items: center;
+}
