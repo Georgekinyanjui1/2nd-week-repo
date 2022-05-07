@@ -66,6 +66,10 @@ nav ul li a{
     width: 300;
 }
 
+.form{
+    margin: 50px;
+}
+
  span{
     text-decoration-line:overline;
 }
@@ -90,7 +94,3 @@ nav ul li a{
     margin: 50px;
 }
 
-
-.form{
-    margin-bottom: 20;
-}
