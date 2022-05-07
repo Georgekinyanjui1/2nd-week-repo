@@ -94,3 +94,21 @@ nav ul li a{
     margin: 50px;
 }
 
+.sect3{
+    margin: 75px;
+    background-color: black;
+    height: 300px;
+
+}
+
+.container4{
+    margin-left: 50px;
+    padding-top: 70px;
+}
+.color{
+    color: white;
+}
+
+strong{
+    color: yellow;
+}
