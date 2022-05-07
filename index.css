@@ -98,6 +98,7 @@ nav ul li a{
     margin: 75px;
     background-color: black;
     height: 300px;
+    list-style:inside;
 
 }
 
