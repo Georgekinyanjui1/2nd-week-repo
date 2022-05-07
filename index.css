@@ -77,4 +77,6 @@ nav ul li a{
     width: fit-content;
     height: 35px;
     border-top-right-radius: 10px;
+    padding-top: 20px;
+
 }
