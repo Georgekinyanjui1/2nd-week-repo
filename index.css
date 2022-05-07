@@ -97,8 +97,7 @@ nav ul li a{
 .sect3{
     margin: 75px;
     background-color: black;
-    height: 300px;
-    list-style:inside;
+    height: 500px;
 
 }
 
@@ -112,4 +111,12 @@ nav ul li a{
 
 strong{
     color: yellow;
+}
+
+.x{
+    display: flex;
+    font-size:x-small;
+    align-items: center;
+    margin:80 10 0 80;
+    display: block;
 }
