@@ -1,7 +1,35 @@
-header{
-    background-color: aqua;
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
 }
 
-h1{
-    font-size: x-small;
+nav{
+    background-color:yellow;
+    height: auto;
+    width: auto;
 }
+
+.logo{
+    color: white;
+    font-size: 35px;
+    line-height: normal;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right:200;
+    flex-direction: row;
+    margin-right: ;
+}
+ul li{
+    display: inline;
+    padding: 5;
+    font-size: x-small;
+    align-items: center;
+}
+
