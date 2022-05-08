@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    background-color:darkmagenta;
 }
 
 nav{
@@ -21,15 +22,19 @@ nav{
 }
 
 nav ul{
-    float: right;
-    margin-right:200;
+    float: left;
+    margin-left: 20;
     flex-direction: row;
-    margin-right: ;
+
 }
 ul li{
     display: inline;
-    padding: 5;
+    padding: 10;
     font-size: x-small;
     align-items: center;
 }
 
+.work{
+    float: right;
+    background-color: yellow;
+}
